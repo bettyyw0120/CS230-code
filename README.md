@@ -11,6 +11,7 @@ Dependencies:
 - numpy
 
 Traditional Models: python traditional.ipynb
+
 BERT Model: python bert_implementation.py
 
 
