@@ -10,7 +10,7 @@ Dependencies:
 - pandas
 - numpy
 
-Traditional Models: python traditional.ipynb
+Traditional Models (Decision Tree, Random Forest, KNN, Naive Bayes): python traditional.ipynb
 
 BERT Model: python bert_implementation.py
 
