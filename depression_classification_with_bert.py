@@ -82,7 +82,7 @@ def load_data(path):
     y = data.label.values
 
     X_train, X_val, y_train, y_val =\
-        train_test_split(X, y, test_size=0.2, random_state=666)
+        train_test_split(X, y, test_size=0.1, random_state=666)
 
     if torch.cuda.is_available():       
         device = torch.device("cuda")
